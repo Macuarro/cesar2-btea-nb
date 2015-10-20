@@ -16,7 +16,7 @@ blastn \- query data-file \- database fish \
 Como poner una imagen del disco:
 
 
-![picture-of-cardon](/Users/Cesar/Desktop/cesar2-btea-nb/imagenes/cardon.jpg)
+![picture-of-cardon](../imagenes/cardon.jpg)
 
 agregando mas lineas
 
