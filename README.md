@@ -1,4 +1,5 @@
 # cesar2-btea-nb
-This my notebook for this class.
+This my notebook for the course "Bioinformatics for Transcriptomic and Epigenomic Analyses".
 
-You can edit "this 
+
+
